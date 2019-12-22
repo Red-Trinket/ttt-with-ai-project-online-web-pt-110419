@@ -126,4 +126,3 @@ describe "Board" do
       expect(board.position("1")).to eq("X")
     end
   end
-end
